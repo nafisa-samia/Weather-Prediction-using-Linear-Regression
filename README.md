@@ -1,4 +1,4 @@
-# Predict Weather in Szeged using LR, MLR, PR, DT, RF, CV
+# Predict Weather in Szeged using LR, PR, DT, RF, CV
 
 Predict Weather in Szeged using Linear Regression, Polynomial Regression, Decision Tree, Random Forest with Cross Validation, then apply Grid Search CV, and Random Search CV and find the best parameters and estimators. Finally, acheive 99.99% accuracy.
 
